@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Fanttatraieste/react-hw-1/static/css/main.21593587.css",
-    "main.js": "/Fanttatraieste/react-hw-1/static/js/main.9819446a.js",
-    "index.html": "/Fanttatraieste/react-hw-1/index.html",
-    "main.21593587.css.map": "/Fanttatraieste/react-hw-1/static/css/main.21593587.css.map",
-    "main.9819446a.js.map": "/Fanttatraieste/react-hw-1/static/js/main.9819446a.js.map"
+    "main.css": "/react-hw-1/static/css/main.21593587.css",
+    "main.js": "/react-hw-1/static/js/main.9819446a.js",
+    "index.html": "/react-hw-1/index.html",
+    "main.21593587.css.map": "/react-hw-1/static/css/main.21593587.css.map",
+    "main.9819446a.js.map": "/react-hw-1/static/js/main.9819446a.js.map"
   },
   "entrypoints": [
     "static/css/main.21593587.css",
